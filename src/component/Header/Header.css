@@ -1,0 +1,27 @@
+.header-fild{
+    background-color: #EFEFEF;
+}
+
+
+
+
+.header-component{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+ 
+}
+
+.logout-btn{
+    margin-left: 32px;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.name{
+    color: #100000;
+    padding-left: 7px;
+    font-size: 19px;
+    padding-top: 13px;
+}
+

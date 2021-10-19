@@ -1,0 +1,6 @@
+.back-home{
+    display: flex;
+    justify-content: center;
+    line-height: 21px;
+    margin-bottom: 80px;
+}

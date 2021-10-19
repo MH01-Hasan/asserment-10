@@ -1,0 +1,26 @@
+.GENERAL{
+    color: #645e5e;
+    text-align: center;
+}
+.CORONAVIRUSES{
+    color: #9d0b0b;
+    text-align: center;
+    font-family: inherit;
+}
+.about-fild{
+    margin-bottom: 41px;
+    height: 230px;
+    padding: 10px;
+
+}
+.about-fild:hover{
+    border: 1px solid gray;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
+h4{
+    font-family: math;
+    margin-bottom: 10px;
+}

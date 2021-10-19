@@ -1,0 +1,73 @@
+.footer-fild{
+   margin-top: 20px;
+   background-color: #41E4CD;
+
+}
+.table-fild{
+    text-align: center;
+    background-color: #fcfaf6;
+    border: 1px solid gray;
+    border-radius:10px;
+    margin: 10px;
+}
+
+
+.table-body {
+    color: #2E4487;
+    
+   
+}
+
+.close{
+    font-family: monospace;
+    color: red;
+    font-size: 13px;
+}
+.Tuesday{
+ 
+    font-family: monospace;
+    color: rgb(189 6 249);
+    font-size: 15px;
+}
+
+.footer-3dheading{
+    font-family: monospace;
+
+}
+
+.footer-1st-sel{
+    padding: 20px;
+
+}
+
+.paragraph{
+    margin-top: 29px;
+    font-size: unset;
+    font-family: monospace;
+    color: #272f4c;
+
+}
+.fav-icon{
+    color: #272f4c;
+    font-size: 35px;
+    align-items: flex-start;
+    margin: 0px 11px;
+}
+
+.fav-icon:hover{
+    color: #af47f1;
+}
+
+
+.footer-2st-sel{
+    text-align: center;
+    padding-top: 19px;
+    font-family: fangsong;
+}
+
+
+
+ul li  {
+    list-style: none;
+}
+   

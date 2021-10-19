@@ -1,0 +1,17 @@
+.tag-hr{
+    width: 30px;
+    border: 2px solid rgb(2, 2, 2);
+    margin-right: 8px;
+}
+
+p{
+    color: black;
+    font-size: 13px;
+    font-family: monospace;
+}
+.covid-19{
+    color: black;
+    font-size: 13px;
+    font-weight: 700;
+    font-family: monospace;
+}

@@ -1,0 +1,16 @@
+.detail-name{
+    color: #0a0a0a;
+    font-family: serif;
+    margin-bottom: 27px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.image{
+    border-radius: 10px;
+}
+
+.Description{
+    color: rgb(0 0 0 / 85%);
+    font-family: monospace;
+}

@@ -1,0 +1,24 @@
+.banner-fild{
+    background-color: #EFEFEF;
+    
+}
+
+.banner-image{    
+     height: 600px; 
+   
+    border-radius: 10px;
+
+}
+.heading{
+    font-family: system-ui;
+    color: #1e1c1c;
+    font-size: 21px;
+    margin-top: 5px;
+}
+
+
+p{
+    font-family: system-ui;
+    color: #1e1c1c;
+
+}

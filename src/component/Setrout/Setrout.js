@@ -16,6 +16,7 @@ import Footer from '../Footer/Footer';
 import Service from '../Service/Service';
 import PrivateRoute from '../Login/PrivateRoute/PrivateRoute';
 import Booking from '../Booking/Booking';
+import SignUp from '../SignUp/SignUp';
 
 
 
@@ -49,6 +50,10 @@ const Setrout = () => {
                
                     <Route path ='/login'>
                         <Login></Login>
+                    </Route>
+                    
+                    <Route path ='/signup'>
+                        <SignUp></SignUp>
                     </Route>
 
                     <PrivateRoute path ='/booking/:bookingid'>

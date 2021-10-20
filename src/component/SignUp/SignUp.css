@@ -1,0 +1,16 @@
+.singup{
+    
+    margin: auto;
+    border: 1px solid gray;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: gray;
+    text-align: left;
+   
+}
+
+.singup-fild{
+
+    margin: 0px 30px;
+    
+}

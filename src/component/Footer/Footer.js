@@ -5,8 +5,8 @@ import { Table } from 'react-bootstrap';
 
 const Footer = () => {
     return (
-        <div className='container footer-fild'>
-           <div className='row '>
+        <div className=' footer-fild'>
+           <div className='row p-5'>
                <div className='col-lg-4 col-sm-6 footer-1st-sel'>
                    <img src={logo} alt="" />
                    <p className='paragraph'>Pain is the most common complaint among those who have runner’s knee sometimes the pain</p>
